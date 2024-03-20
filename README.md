@@ -1,2 +1,2 @@
-# Elektronska_Klju-avnica_1
+# Elektronska_Kljucavnica_1
 Projekt_UPN-p
