@@ -21,7 +21,7 @@ Vpis kombinacije je mogoč samo, če je vklopljeno stikalo na pozicijo 1.  <br>
 <!DOCTYPE HTML>
 <html>
   <body>
-    <iframe src="https://drive.google.com/file/d/1-T6NAVnVc2njL4yeoenwKZ6-NVWVFl7-/preview" width="640" height="480" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1-T6NAVnVc2njL4yeoenwKZ6-NVWVFl7-/preview"></iframe>
   </body>
 </html>
 <br>
