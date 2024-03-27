@@ -27,7 +27,7 @@ KOSOVNICA:  <br>
 <br>
 <br>
 <br>
-<img title="slika_vezja_1" src="https://drive.google.com/file/d/1ZRXNl0BZmKr-WHM4o0-DNTgyqztM-NP_/view?usp=drive_link">
+<img title="slika_vezja_1" src="https://www.dropbox.com/scl/fi/nxezab02tcj9mrj1c9gpv/slika_vezja_1.png?rlkey=c1kyqq8ki8m0bycre4z0f3njw&dl=0">
 <br>
 <br>
 <br>
