@@ -21,7 +21,7 @@ KOSOVNICA:  <br>
 <!DOCTYPE HTML>
 <html>
   <body>
-    <iframe src="https://drive.google.com/file/d/1-T6NAVnVc2njL4yeoenwKZ6-NVWVFl7-/preview"></iframe>
+    <iframe src="https://www.dropbox.com/scl/fi/vy2l67gjwxmays4amac0t/video_delovanja_vezave.mp4?rlkey=ydheb54aqq4ggasmp3cije0av&dl=0"></iframe>
   </body>
 </html>
 <br>
