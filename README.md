@@ -27,7 +27,7 @@ KOSOVNICA:  <br>
 <br>
 <br>
 <br>
-<img title="slika_vezja_1" src="[https://drive.google.com/file/d/1ZRXNl0BZmKr-WHM4o0-DNTgyqztM-NP_/view?usp=drive_link](https://raw.githubusercontent.com/kl3msy/Elektronska_Kljucavnica_1/main/slika_vezja_1.png?token=GHSAT0AAAAAACQFRQNRAKSZN3ZWNELQJU6QZQDY2PA)">
+<img title="slika_vezja_1" src="https://drive.google.com/file/d/1ZRXNl0BZmKr-WHM4o0-DNTgyqztM-NP_/view?usp=drive_link">
 <br>
 <br>
 <br>
