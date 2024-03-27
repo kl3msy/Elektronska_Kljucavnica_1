@@ -65,5 +65,14 @@ IZHODI:
 
 [![Watch the video](https://github.com/kl3msy/Elektronska_Kljucavnica_1/blob/main/image.png?raw=true)](https://www.dropbox.com/scl/fi/vy2l67gjwxmays4amac0t/video_delovanja_vezave.mp4?rlkey=ydheb54aqq4ggasmp3cije0av&dl=0)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
+KOMENTAR: <br>
+Najen komentar za delovanje je, da je tipkovnica malo zastarela, zato je potrebno počasnejše vnašanje števil, če ne jih ne zazna. <br>
+Za izboljšavo projekta pa meniva, da bi bilo primerno dodati rdečo LED diodo, ki se prižge ob napačnem vnosu kode, ter zaslon, ki izpisuje vnesena števila. <br>
+Če za izpisovanje števil nemoremo uporabiti zaslona, bi lahko uporabilio tudi serial.print, ki je vgrajen v arduino aplikacijo. <br>
