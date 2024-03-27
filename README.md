@@ -9,7 +9,7 @@ Vpis kombinacije je mogoč samo, če je vklopljeno stikalo na pozicijo 1.  <br>
   <br>
   <br>
   <br>
- Kosovnica:  <br>
+KOSOVNICA:  <br>
    - Keypad(3*4)  1x  <br>
    - Arduino Uno  1x  <br>
    - LED Dioda    1x  <br>
@@ -27,7 +27,7 @@ Vpis kombinacije je mogoč samo, če je vklopljeno stikalo na pozicijo 1.  <br>
 <br>
 <br>
 <br>
-https://drive.google.com/file/d/1ZRXNl0BZmKr-WHM4o0-DNTgyqztM-NP_/view?usp=drive_link
+![slika_vezja_1](https://drive.google.com/file/d/1ZRXNl0BZmKr-WHM4o0-DNTgyqztM-NP_/view?usp=drive_link)
 <br>
 <br>
 <br>
