@@ -9,10 +9,10 @@ Vpis kombinacije je mogoč samo, če je vklopljeno stikalo na pozicijo 1.  <br>
   <br>
   <br>
   <br>
-Kosovnica:  <br>
-   -Keypad(3*4)  1x  <br>
-   -Arduino Uno  1x  <br>
-   -LED Dioda    1x  <br>
-   -Stikalo      1x  <br>
-   -Upor(220Ω)   2x  <br>
+ Kosovnica:  <br>
+   - Keypad(3*4)  1x  <br>
+   - Arduino Uno  1x  <br>
+   - LED Dioda    1x  <br>
+   - Stikalo      1x  <br>
+   - Upor(220Ω)   2x  <br>
    
