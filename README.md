@@ -39,3 +39,4 @@ https://www.dropbox.com/scl/fi/xy9wl4c267rnm8intoqmz/vezalna_shema.png?rlkey=dkr
 
 
 ![Alt text](https://github.com/kl3msy/Elektronska_Kljucavnica_1/blob/main/slika_vezja_1.png?raw=true)
+
