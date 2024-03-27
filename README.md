@@ -31,8 +31,8 @@ KOSOVNICA:  <br>
 <br>
 <br>
 <br>
-https://drive.google.com/file/d/1Lh8mRvxIfcziPzoxV15emr-RxPQE8gHK/view?usp=drive_link
+https://www.dropbox.com/scl/fi/zjyijiro91m5ibtuep3oo/slika_vezja_2.png?rlkey=oaga373mix9lxlawb1ovejdal&dl=0
 <br>
 <br>
 <br>
-https://drive.google.com/file/d/1OZIdgKA_YpPxZEnuzM9kqVH2DsVDLtIo/view?usp=drive_link
+https://www.dropbox.com/scl/fi/xy9wl4c267rnm8intoqmz/vezalna_shema.png?rlkey=dkrmndzej3so69me17u3804kp&dl=0
