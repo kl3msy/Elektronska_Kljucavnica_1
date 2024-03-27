@@ -7,9 +7,9 @@ Na voljo imate 9 tipk (številke 1 do 9 na tipkovnici 3x4 "keypad"). S pravilno 
 
 
 Kosovnica:
-   -Keypad(3*4)  1x
-   -Arduino Uno  1x
-   -LED Dioda    1x
-   -Stikalo      1x
+   -Keypad(3*4)  1x,
+   -Arduino Uno  1x,
+   -LED Dioda    1x,
+   -Stikalo      1x,
    -Upor(220Ω)   2x
    
