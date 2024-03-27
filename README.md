@@ -41,32 +41,32 @@ IZHODI:
 <br>
 <br>
 <br>
+<br>
+<br>
+
+
+![Alt text](https://github.com/kl3msy/Elektronska_Kljucavnica_1/blob/main/slika_vezja_1.png?raw=true)
+
+<br>
+<br>
+<br>
+
+![Alt text](https://github.com/kl3msy/Elektronska_Kljucavnica_1/blob/main/slika_vezja_2.png?raw=true)
+
+<br>
+<br>
+<br>
+
+![Alt text](https://github.com/kl3msy/Elektronska_Kljucavnica_1/blob/main/slika_vezalne_sheme.png?raw=true)
+
+<br>
+<br>
+<br>
+
 <!DOCTYPE HTML>
 <html>
   <body>
     <iframe src="https://www.dropbox.com/scl/fi/vy2l67gjwxmays4amac0t/video_delovanja_vezave.mp4?rlkey=ydheb54aqq4ggasmp3cije0av&dl=0"></iframe>
   </body>
 </html>
-<br>
-<br>
-<br>
-<img title="slika_vezja_1" src="https://www.dropbox.com/scl/fi/nxezab02tcj9mrj1c9gpv/slika_vezja_1.png?rlkey=c1kyqq8ki8m0bycre4z0f3njw&dl=0">
-<br>
-<br>
-<br>
-https://www.dropbox.com/scl/fi/zjyijiro91m5ibtuep3oo/slika_vezja_2.png?rlkey=oaga373mix9lxlawb1ovejdal&dl=0
-<br>
-<br>
-<br>
-https://www.dropbox.com/scl/fi/xy9wl4c267rnm8intoqmz/vezalna_shema.png?rlkey=dkrmndzej3so69me17u3804kp&dl=0
-
-
-![Alt text](https://github.com/kl3msy/Elektronska_Kljucavnica_1/blob/main/slika_vezja_1.png?raw=true)
-
-![Alt text](https://github.com/kl3msy/Elektronska_Kljucavnica_1/blob/main/slika_vezja_2.png?raw=true)
-
-![Alt text](https://github.com/kl3msy/Elektronska_Kljucavnica_1/blob/main/slika_vezalne_sheme.png?raw=true)
-
-
-![Alt text](video_delovanja_vezave.mp4)
 
