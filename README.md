@@ -18,7 +18,7 @@ Vpis kombinacije je mogoč samo, če je vklopljeno stikalo na pozicijo 1.  <br>
 <br>
 <br>
 <br>
-[![asciicast]https://drive.google.com/file/d/1-T6NAVnVc2njL4yeoenwKZ6-NVWVFl7-/view?usp=drive_link]
+https://drive.google.com/file/d/1-T6NAVnVc2njL4yeoenwKZ6-NVWVFl7-/view?usp=drive_link
 <br>
 <br>
 <br>
