@@ -18,7 +18,12 @@ Vpis kombinacije je mogoč samo, če je vklopljeno stikalo na pozicijo 1.  <br>
 <br>
 <br>
 <br>
-<iframe src="https://drive.google.com/file/d/1-T6NAVnVc2njL4yeoenwKZ6-NVWVFl7-/preview" width="640" height="480" allow="autoplay"></iframe>
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <iframe src="https://drive.google.com/file/d/1-T6NAVnVc2njL4yeoenwKZ6-NVWVFl7-/preview" width="640" height="480" allow="autoplay"></iframe>
+  </body>
+</html>
 <br>
 <br>
 <br>
