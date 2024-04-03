@@ -63,7 +63,7 @@ IZHODI:
 <br>
 <br>
 
-<video src="github.com/kl3msy/Elektronska_Kljucavnica_1/raw/main/video_delovanja_vezave.mp4"  width="320" height="240" controls></video>
+<video src="https://github.com/kl3msy/Elektronska_Kljucavnica_1/raw/main/video_delovanja_vezave.mp4"  width="200" height="100" controls></video>
 
 <br>
 <br>
